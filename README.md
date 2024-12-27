@@ -1,10 +1,6 @@
 # Customer Churn/Retention
 ### Table of content
-1) [About](https://github.com/Itsrummmy/from-pixels-to-profit?tab=readme-ov-file#about)
-2) [Tools Used](https://github.com/Itsrummmy/from-pixels-to-profit?tab=readme-ov-file#tools-used)
-3) [Insights](https://github.com/Itsrummmy/from-pixels-to-profit?tab=readme-ov-file#insights)
-4) [Development](https://github.com/Itsrummmy/from-pixels-to-profit?tab=readme-ov-file#development)
-5) [Requirements](https://github.com/Itsrummmy/from-pixels-to-profit?tab=readme-ov-file#requirements)
+1) [
 
 ## About
 This project utilized Python and other python libraries to explore the TMDb dataset, focusing on analyzing movie performance across genres based on *revenue, popularity, and vote counts*.

@@ -1,6 +1,5 @@
 # Customer Churn/Retention
 ### Table of content
-1) [
 
 ## About
 This project utilized Python and other python libraries to explore the TMDb dataset, focusing on analyzing movie performance across genres based on *revenue, popularity, and vote counts*.

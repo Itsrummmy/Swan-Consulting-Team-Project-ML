@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Overview
 
-This project, completed as part of the discrete modelling section of the Predictive Modelling module at Digital Futures Academy, focused on analyzing customer churn behavior and identifying retention strategies. I used logistic regression to analyse churn in a customer database, identify retention drivers, prioritize at-risk customers, and provide churn likelihood scores.
+This project focused on predicting customer churn by analyzing customer behavior patterns. We employed decision tree models to identify key churn drivers and features, and utilized logistic regression to generate churn risk scores, enabling the prioritization of at-risk customers for targeted retention strategies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

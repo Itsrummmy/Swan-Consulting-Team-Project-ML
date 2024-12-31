@@ -1,15 +1,13 @@
 <a id="readme-top"></a>
 
-# Customer Retention Project
-
-## Project 5 of the Digital Futures Academy
+# Swan Consulting Customer Retention Project
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Project Overview</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
@@ -30,7 +28,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project Overview
 
 This project, completed as part of the discrete modelling section of the Predictive Modelling module at Digital Futures Academy, focused on analyzing customer churn behavior and identifying retention strategies. I used logistic regression to analyse churn in a customer database, identify retention drivers, prioritize at-risk customers, and provide churn likelihood scores.
 

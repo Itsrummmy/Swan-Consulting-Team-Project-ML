@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Project Overview</a>
+      <a href="project-overview">Project Overview</a>
     </li>
     <li>
       <a href="#tools-used">Tools Used</a>
@@ -25,7 +25,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- PROJECT OVERVIEW -->
 ## Project Overview
 
 This project focused on predicting customer churn by analyzing customer behavior patterns. We employed decision tree models to identify key churn drivers and features, and utilized logistic regression to generate churn risk scores, enabling the prioritization of at-risk customers for targeted retention strategies.

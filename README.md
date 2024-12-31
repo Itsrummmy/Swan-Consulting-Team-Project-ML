@@ -20,8 +20,6 @@
     </li>
     <li>
       <a href="#conclusion">Conclusion</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -79,15 +77,5 @@ This project, completed as part of the discrete modelling section of the Predict
 ## Conclusion
 
 This project provided comprehensive analysis of customer churn for Swan Teleco. By identifying key churn drivers, such as contract types and service usage patterns, and highlighting at-risk customer segments, we created a solid foundation for effective retention strategies. The predictive models and ranked customer lists enable targeted interventions, while the recommendations for promoting long-term contracts and enhancing customer experience address critical areas for improvement. These outcomes demonstrate the potential of analytics to transform raw data into meaningful strategies that support customer retention and business growth.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-Katrina Booth: katrinalilybooth@gmail.com
-
-Project Link: [https://github.com/KatrinaBooth/Customer-retention-project](https://github.com/KatrinaBooth/Customer-retention-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

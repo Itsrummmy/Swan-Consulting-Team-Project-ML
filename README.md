@@ -37,7 +37,6 @@ This project focused on predicting customer churn by analyzing customer behavior
 ## Tools Used
 
 * **Python**: For exploratory data analysis and modeling.
-* **Jupyter Lab**: IDE for the project.
 * **Libraries**:
   * `numpy`
   * `pandas`
@@ -52,10 +51,11 @@ This project focused on predicting customer churn by analyzing customer behavior
 <!-- Deliverables -->
 ## Deliverables
 
+* A List of 500 Customers with Highest Churn Probability for Targeted Retention Initiatives
+* A full list of churn likelihood for all customers.
 * An information presentation deck.
-* A list of top 500 most likely to churn customers.
-* A notebook presenting all work. This should include my EDA, Feature Engineering, Split, Modelling & Model Evaluation. 
-* A full list of churn likelihood for the remaining customers.
+* A comprehensive Jupyter Notebook documenting the entire project workflow.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,11 +63,14 @@ This project focused on predicting customer churn by analyzing customer behavior
 
 <!-- Outcomes -->
 ## Outcomes
+Our analysis revealed the following key contributors to customer churn/retention:
+1) Contract Type: Month-to-month contracts are strongly associated with higher churn rates.
+2) Tenure (Months): Similar to contract type, customer tenure highlights specific periods of increased churn risk,
+   particularly around the 9-month and 18-month marks.
+4) Technical Support: Customers subscribing to technical support services exhibit greater loyalty to Swan Teleco.
+5) Online Security: Customers who opt for online security services also demonstrate higher retention rates.
+6) Internet Service: Inclusion of internet service in a customer's package correlates with increased customer retention.
 
-* Overall, the churned customers are female, have no partners or dependents, and have opted only for services related to phones.
-* Senior citizens are more likely to churn whilst customers with dependents or partners are less likely to churn.
-* Customers who sign up for online security services are more likely to stay.
-* Customers with 0-5 months tenure show the highest churn proportion (~40%), indicating early-stage churn is a major issue.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,6 +79,6 @@ This project focused on predicting customer churn by analyzing customer behavior
 <!-- Conclusion -->
 ## Conclusion
 
-This project provided comprehensive analysis of customer churn for Swan Teleco. By identifying key churn drivers, such as contract types and service usage patterns, and highlighting at-risk customer segments, we created a solid foundation for effective retention strategies. The predictive models and ranked customer lists enable targeted interventions, while the recommendations for promoting long-term contracts and enhancing customer experience address critical areas for improvement. These outcomes demonstrate the potential of analytics to transform raw data into meaningful strategies that support customer retention and business growth.
+This project successfully analyzed customer churn for Swan Teleco, resulting in the creation of predictive models, prioritized customer lists, and actionable recommendations for improving customer retention through targeted interventions and enhancements to customer experience and contract offerings.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
